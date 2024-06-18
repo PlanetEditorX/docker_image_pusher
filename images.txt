@@ -5,3 +5,4 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #piaoyizy/openwrt-aarch64:latest --platform=linux/arm64
+--platform=linux/arm64 piaoyizy/openwrt-aarch64
