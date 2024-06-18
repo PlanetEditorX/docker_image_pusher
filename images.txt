@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 piaoyizy/openwrt-aarch64:latest
+piaoyizy/openwrt-aarch64:latest --platform=linux/arm64 
