@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #piaoyizy/openwrt-aarch64:latest --platform=linux/arm64
 --platform=linux/amd64 piaoyizy/openwrt-aarch64
+--platform=linux/amd64 mysql
